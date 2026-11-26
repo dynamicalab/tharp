@@ -1,0 +1,3 @@
+[submodule "d-mercator"]
+	path = d-mercator
+	url = https://github.com/networkgeometry/d-mercator.git
